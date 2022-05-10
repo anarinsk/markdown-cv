@@ -56,7 +56,7 @@ __Seoul National University__ 서울대학교 (Seoul  &#183; South Korea)
 `2010`
 __Seoul National University__ (Seoul  &#183; South Korea)
 - Ph.D. School of Economics
-- Thesis: "Three Essays on Evolutionary Game Theory and Its Economic Applications"
+- Title: "Three Essays on Evolutionary Game Theory and Its Economic Applications"
 
 `1997`
 __Seoul National University__
@@ -66,7 +66,7 @@ __Seoul National University__
 __Seoul National University__ 
 - B.A. School of Economics
 
-## Publications
+## Selected Publications
 
 ### Books and book chapters 
 
