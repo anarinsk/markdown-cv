@@ -103,7 +103,7 @@ NetLogo, Docker, Kubernetes
 <br>
 <br>
 <br>
-Last updated: __May 2022__
+Last updated: __Jan 2024__
 
 <!-- ### Footer
 
